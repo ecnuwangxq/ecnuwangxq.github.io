@@ -1,0 +1,34 @@
+---
+title: "金融研究方法"
+author: "汪小圈 (xqwang@jjx.ecnu.edu.cn)"
+output: html_document
+---
+
+## 课程通知
+
+- 此网站为课程主页，包括课程课件、作业及学习资料，课程讲解视频请登陆超星学习通APP获取。
+
+## 课件
+
+- [课程介绍](ClassSlide_FinResearch.html)
+
+- 中国金融行业发展
+
+    - 回顾中国金融行业发展 [(1)](Topic1_FinInd/ClassSlide_FinInd1.html) [(2)](Topic1_FinInd/ClassSlide_FinInd2.html)
+
+- 中国债务问题
+
+- 中国股票市场异象
+  
+- 事件研究
+
+
+## R语言
+
+- [R语言官网(下载安装软件)](https://www.r-project.org/)
+
+- [RStudio Desktop下载](https://www.rstudio.com/products/rstudio/download/)
+
+- [R入门参考书: R for Data Science](http://r4ds.had.co.nz/)
+
+- [R计量分析的参考书: Principles of Econometrics with  R](https://bookdown.org/ccolonescu/RPoE4/)
